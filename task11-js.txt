@@ -1,6 +1,6 @@
 Build the following practical feature using the HTML/CSS learned previously and the JavaScript/jQuery concepts from this day. The assignment should be functional, readable, and tested in the browser.
 • Use the personal profile HTML/CSS page from the earlier training as the base.
-• Create an external app.js file and load it correctly.
+• Create an external app.js file and load it correctly. 
 • Create a JavaScript object containing profile information such as name, role, skills, experience, and contact information.
 • Use arrays for skills, education, projects, or achievements.
 • Display profile information dynamically in the page.
