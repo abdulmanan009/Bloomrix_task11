@@ -1,0 +1,17 @@
+Build the following practical feature using the HTML/CSS learned previously and the JavaScript/jQuery concepts from this day. The assignment should be functional, readable, and tested in the browser.
+• Use the personal profile HTML/CSS page from the earlier training as the base.
+• Create an external app.js file and load it correctly.
+• Create a JavaScript object containing profile information such as name, role, skills, experience, and contact information.
+• Use arrays for skills, education, projects, or achievements.
+• Display profile information dynamically in the page.
+• Create at least five functions and use parameters/return values appropriately.
+• Use at least one arrow function and one callback.
+• Use map, filter, find, and reduce in meaningful examples.
+• Add a skill search/filter feature.
+• Add a simple experience or skill score calculation using numeric values.
+• Use conditional logic to display different messages based on the user's input or profile data.
+• Use template literals to generate text or HTML fragments.
+• Use destructuring and spread syntax at least once.
+• Use try/catch around a small operation that can fail and show a friendly error message.
+• Keep data separate from UI logic where practical.
+• Log useful debugging information in the browser console during development, then remove unnecessary logs before submission.
